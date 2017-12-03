@@ -1,0 +1,5 @@
+print(6+6)
+print("well water " + "river")
+print("I love meat" * 8)
+print("I love meat\n" * 8)
+print("I love meat "+8)
